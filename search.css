@@ -1,0 +1,28 @@
+#search-results {
+    margin-top: 20px;
+}
+
+.product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product h3 {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.product p {
+    font-size: 1em;
+    color: #555;
+}
